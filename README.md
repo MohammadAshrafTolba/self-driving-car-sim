@@ -1,5 +1,5 @@
 # self-driving-car-sim
-This is a deep neural network to help the car self steer it self or as udacity calls it _car behavioral cloning_ ,
+This is a deep neural network to help the car self steer or as udacity calls it _car behavioral cloning_ ,
 the network is fed three images from 3 different angles where each 3 images
 are labeled with a steering angle
 
