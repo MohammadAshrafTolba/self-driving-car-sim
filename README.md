@@ -19,7 +19,7 @@ See the final results [See video](https://youtu.be/Dfoi3h3SETs)
 
 - Generating more data for the udacity simulator would definitely help
 
-- Data used here(https://github.com/rslim087a/track)
+- Data used [here](https://github.com/rslim087a/track)
 
 ### How to run
 Open the udacity simulator, choose autonomous mode and type the following command in your terminal:
