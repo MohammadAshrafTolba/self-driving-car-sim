@@ -15,7 +15,7 @@ Nvidia's paper too.
 See the final results [See video](https://youtu.be/Dfoi3h3SETs)
 
 ### Notes
-- Currently both training and validation loss are about 0.4-0.5, which results in a pretty good result
+- Currently both training and validation loss are about 0.04-0.05, which results in a pretty good result
 
 - Generating more data for the udacity simulator would definitely help
 
