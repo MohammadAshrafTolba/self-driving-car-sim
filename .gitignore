@@ -3,6 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+*.rar
+*.zip
+*.csv
+
+IMG/
+/IMG/
+data/
+/data/
+
 .idea
 .ipynb_checkpoints
 
